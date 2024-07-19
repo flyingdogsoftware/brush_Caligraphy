@@ -10,7 +10,7 @@
   "license": "MIT",
   "files": [
     "dist/brush_Caligraphy.js",
-    "dist/*.img"
+    "dist/*.*"
   ],
     "repository": {
       "type": "git",
