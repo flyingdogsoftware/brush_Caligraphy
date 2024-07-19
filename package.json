@@ -1,6 +1,6 @@
 {
   "name": "@fds-components-public/fds-brush-caligraphy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "brush caligraphy",
   "main": "dist/brush_Caligraphy.js",
   "scripts": {
